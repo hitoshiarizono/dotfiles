@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/arizono/Documents/fastar-ae/src/solver'
+let g:netrw_dirhist_2='/Users/arizono/Documents/agard4456/modehist'
+let g:netrw_dirhist_3='/Users/arizono/Documents/fastar/20141215_fastar-ae/fastar-src/fastar-ae_20141215/src'
+let g:netrw_dirhist_4='/Users/arizono/Documents/fastar/20141215_fastar-ae/fastar-src/fastar-ae_20141215/src/prepost'
+let g:netrw_dirhist_5='/Users/arizono/Documents/fastar/20141215_fastar-ae/fastar-src/fastar-ae_20141215/src/prepost/pre-process_metis'
